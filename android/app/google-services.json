@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260437895675",
+    "project_id": "signal-34b02",
+    "storage_bucket": "signal-34b02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260437895675:android:2f6bc1c07c4140fdccc35e",
+        "android_client_info": {
+          "package_name": "com.example.signal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC740g6DbiMLuf9IxlLYoznoCVnCl7unPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
